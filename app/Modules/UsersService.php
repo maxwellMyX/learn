@@ -6,7 +6,7 @@
  * Time: 16:43
  */
 
-namespace App\Http\Modules;
+namespace App\Modules;
 
 
 class UsersService
